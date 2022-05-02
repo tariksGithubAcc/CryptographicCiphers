@@ -33,7 +33,8 @@ print("Cipher: " + encypt_func(txt, s))
 
 # Diffie Hellman Cipher
 
-# The Diffie–Hellman (DH) Algorithm is a key-exchange protocol that enables two parties communicating over public channel to establish a mutual secret without it being transmitted over the Internet.
+# The Diffie–Hellman (DH) Algorithm is a key-exchange protocol that enables two parties communicating over public channel to establish a mutual secret without 
+# it being transmitted over the Internet.
 
 # Program:-
 
@@ -80,7 +81,8 @@ if __name__ == '__main__':
     
 # Hill Cipher
     
-# In classical cryptography, the Hill cipher is a polygraphic substitution cipher based on linear algebra. Invented by Lester S. Hill in 1929, it was the first polygraphic cipher in which it was practical to operate on more than three symbols at once.
+# In classical cryptography, the Hill cipher is a polygraphic substitution cipher based on linear algebra. Invented by Lester S. Hill in 1929, 
+# it was the first polygraphic cipher in which it was practical to operate on more than three symbols at once.
     
 # Program:-
     
@@ -241,7 +243,8 @@ while(1):
         
 # Vegenere Cipher
 
-# The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It employs a form of polyalphabetic substitution.
+# The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. 
+# It employs a form of polyalphabetic substitution.
 
 # Program:-
 
